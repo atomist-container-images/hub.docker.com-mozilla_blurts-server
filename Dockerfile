@@ -15,6 +15,3 @@ FROM mozilla/blurts-server:v14.6.0
 
 # Tags: v14.5.10
 FROM mozilla/blurts-server:v14.5.10
-
-# Tags: v14.5.9
-FROM mozilla/blurts-server:v14.5.9
